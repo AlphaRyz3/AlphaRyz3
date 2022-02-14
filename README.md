@@ -39,7 +39,7 @@
 > How to contact me.
 
 - Discord: AlphaRyze#1782
-- Fiverr: [click me!](https://fiverr.com)
+- Fiverr: [click me!](https://it.fiverr.com/alpharyze/create-a-custom-discord-bot-for-you)
 - Telegram: [also me!](https://t.me/AlphaRyze)
 
 
