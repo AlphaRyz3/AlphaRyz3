@@ -28,8 +28,12 @@
   <br />
   <br />  
   <div align="center">
-    <img width="84%" src="https://activity-graph.herokuapp.com/graph?username=AlphaRyz3&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
+    <img width="68%" src="https://activity-graph.herokuapp.com/graph?username=AlphaRyz3&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
+      <a href="https://top.gg/bot/881247671325716570">
+        <img src="https://top.gg/api/widget/881247671325716570.svg">
+      </a>
   </div>
+  
   <br />
 
 
@@ -48,7 +52,7 @@
 
 > Music I like to listen to.
 
-<a href="https://open.spotify.com/user/iyp449gpvmgrzw82i8xptf7up">
+<a href="https://open.spotify.com/user/">
   <img src="https://spotify-readme-widget.herokuapp.com/api/spotify/now" />
 </a>  -->
 
