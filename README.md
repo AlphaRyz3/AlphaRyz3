@@ -36,7 +36,7 @@
   
   <br />
 
-
+/*
 <!-- Socials section. -->
 <h2>🌐 Contact Me 🌐</h2>
 
@@ -45,7 +45,7 @@
 - Discord: AlphaRyze#1782
 - Fiverr: [click me!](https://it.fiverr.com/alpharyze/create-a-custom-discord-bot-for-you)
 - Telegram: [also me!](https://t.me/AlphaRyze)
-
+*/
 
 <!-- Spotify section.
 <h2>🎵 Spotify</h2>
