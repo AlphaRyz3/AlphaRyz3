@@ -13,7 +13,7 @@
 > Nice to Meet Yall, i'm Alpha
 
 - ⌨️ I'm an IT Student
-- 🌱 I'm Currently Learning **C, JavaScript**
+- 🌱 I'm Currently Learning **C++, C, JavaScript**
 - 💜 I Like Anime&Manga
 - 🎲 I do Custom Commissions **[Contact Me]**
 
