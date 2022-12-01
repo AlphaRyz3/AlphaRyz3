@@ -59,6 +59,7 @@
 
 <div style='display: flex'>
   <img src="./assets/icons/c/c.png" width="38" height="38" alt="C" />
+  <img src="./assets/icons/c++/c++.png" width="38" height="38" alt="C" />
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
