@@ -15,7 +15,7 @@
 - ⌨️ I'm an IT Student
 - 🌱 I'm Currently Learning **C++, C, JavaScript, Java, C#, React**
 - 💜 I Like Anime&Manga
-- 🎲 I do Custom Commissions **[Contact Me]** **[Currently Not Avaiable]**
+- 🎲 I do Custom Commissions **[Contact Me]** **[Currently Avaiable]**
 
 <!-- Stats section. -->
 <h2>📊 GitHub Stats 📊</h2>
