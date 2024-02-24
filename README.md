@@ -13,7 +13,7 @@
 > Nice to Meet Yall, i'm Alpha
 
 - ⌨️ I'm an IT Student
-- 🌱 I'm Currently Learning **C++, C, JavaScript, Java, C#, React**
+- 🌱 I'm Currently Learning **C++, C, TypeScript, JavaScript, Java, C#, React**
 - 💜 I Like Anime&Manga
 - 🎲 I do Custom Commissions **[Contact Me]** **[Currently Avaiable]**
 
@@ -63,6 +63,8 @@
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
+  <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />|
+  <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="Nextjs" />
 </div>
 
 <h3> Databases </h3>
