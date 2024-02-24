@@ -33,15 +33,12 @@
   
   <br />
 
-<!--
 <h2>🌐 Contact Me 🌐</h2>
 
 > How to contact me.
 
-- Discord: AlphaRyze#1782
+- Discord: .alpharyze
 - Fiverr: [click me!](https://it.fiverr.com/alpharyze/create-a-custom-discord-bot-for-you)
-- Telegram: [also me!](https://t.me/AlphaRyze)
--->
 
 <!-- Spotify section.
 <h2>🎵 Spotify</h2>
@@ -63,7 +60,7 @@
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
-  <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />|
+  <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
   <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="Nextjs" />
 </div>
 
