@@ -25,11 +25,6 @@
     <img height="140px" width="45%" src="https://github-readme-stats-onb2k7j71-alpharyz3.vercel.app/api?username=AlphaRyz3&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
     <img height="140px" width="45%" src="https://github-readme-stats-onb2k7j71-alpharyz3.vercel.app/api/top-langs/?username=AlphaRyz3&layout=compact&langs_count=8&count_private=true&theme=tokyonight"/>
   </div>
-  <br />
-  <br />  
-  <div align="center">
-    <img width="68%" src="https://activity-graph.herokuapp.com/graph?username=AlphaRyz3&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
-  </div>
   
   <br />
 
