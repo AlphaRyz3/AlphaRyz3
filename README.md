@@ -13,9 +13,9 @@
 > Nice to Meet Yall, i'm Alpha
 
 - ⌨️ I'm an IT Student
-- 🌱 I'm Currently Learning **C++, C, TypeScript, JavaScript, Java, C#, React**
+- 🌱 I'm Currently Learning **C++, C, TypeScript, JavaScript, Java, C#, React, Python**
 - 💜 I Like Anime&Manga
-- 🎲 I do Custom Commissions **[Contact Me]** **[Currently Avaiable]**
+- 🎲 I do Custom Commissions **[Contact Me]** **[Currently Not Available]**
 
 <!-- Stats section. -->
 <h2>📊 GitHub Stats 📊</h2>
@@ -33,18 +33,7 @@
 > How to contact me.
 
 - Discord: .alpharyze
-- Fiverr: [click me!](https://it.fiverr.com/alpharyze/create-a-custom-discord-bot-for-you)
 
-<!-- Spotify section.
-<h2>🎵 Spotify</h2>
-
-> Music I like to listen to.
-
-<a href="https://open.spotify.com/user/">
-  <img src="https://spotify-readme-widget.herokuapp.com/api/spotify/now" />
-</a>  -->
-
-<!-- Tech section. -->
 <h2>🔨 Languages and Tools</h2>
 
 > Languages i Know
@@ -54,12 +43,17 @@
   <img src="./assets/icons/c++/c++.png" width="38" height="38" alt="C" />
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
+  <img src="./assets/icons/node/node" width="42" alt="NodeJS" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
   <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
-  <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="Nextjs" />
 </div>
 
-<h3> Databases </h3>
+> Frameworks
+<div style='display: flex'>
+  <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="Nextjs" />
+</div>  k
+  
+> Database
 
 <div style='display: flex'>
   <img src="./assets/icons/mongodb/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
