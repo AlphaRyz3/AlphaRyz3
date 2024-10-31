@@ -43,7 +43,7 @@
   <img src="./assets/icons/c++/c++.png" width="38" height="38" alt="C" />
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
-  <img src="./assets/icons/node/node" width="42" alt="NodeJS" />
+  <img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
   <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
 </div>
@@ -51,7 +51,7 @@
 > Frameworks
 <div style='display: flex'>
   <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="Nextjs" />
-</div>  k
+</div>
   
 > Database
 
